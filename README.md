@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ai agent Building<br>👯 I’m looking to collaborate on  Ai agents<br>
+🔭 I’m currently working on Self Development <br>👯 I’m looking to collaborate on  Something i finds good<br>
 
 
 ## 🌐 Socials:
