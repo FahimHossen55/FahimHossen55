@@ -1,24 +1,278 @@
-# 💫 About Me:
-🔭 I’m currently working on Self Development <br>👯 I’m looking to collaborate on  Something i finds good<br>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Md. Fahim Hossen
 
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rohan.fahim.52) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fahim-hossen/) 
+### AI Researcher | Electrical & Computer Engineering Undergraduate | Machine Learning Engineer
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FahimHossen55&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FahimHossen55&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FahimHossen55&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=AI+Researcher;Multimodal+AI+Engineer;Federated+Learning+Researcher;Computer+Vision+Researcher;LLM+Developer;Scientific+Machine+Learning+Enthusiast;Always+Learning+Something+New" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FahimHossen55&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FahimHossen55&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
+# 💫 About Me
+
+🎓 Electrical & Computer Engineering undergraduate at **Rajshahi University of Engineering & Technology (RUET)**
+
+🔬 Former **Research Assistant** at **Qatar University**
+
+🧠 Passionate about solving real-world problems using Artificial Intelligence, Deep Learning, and Scientific Machine Learning.
+
+🚀 My research primarily focuses on building **privacy-preserving**, **trustworthy**, and **efficient AI systems**.
+
+💡 Current interests include
+
+- 🤖 Large Language Models (LLMs)
+- 🧠 Multimodal AI
+- 🔐 AI Security
+- 🌐 Federated Learning
+- ⚡ Edge AI
+- 👁️ Computer Vision
+- 📡 Brain Computer Interface (BCI)
+- 📊 Scientific Machine Learning (PINNs)
+- 🚗 Intelligent Vehicular Systems
+
+---
+
+# 🔭 Currently Working On
+
+- 🔐 Secure Federated Learning with Zero Knowledge Proofs
+- 🤖 AI Security for Edge Intelligence
+- 🧠 Multimodal Foundation Models
+- 📡 Vehicular Sensor Intelligence
+- ⚡ Scientific Machine Learning
+- 📚 Research Publications
+- 💻 Open Source AI Projects
+
+---
+
+# 🎯 Research Interests
+
+```text
+Artificial Intelligence
+Machine Learning
+Deep Learning
+Multimodal Learning
+Large Language Models
+Retrieval-Augmented Generation
+Federated Learning
+AI Security
+Differential Privacy
+Secure Aggregation
+Zero Knowledge Proofs
+Computer Vision
+Medical Image Analysis
+Brain Computer Interface
+Physics-Informed Neural Networks
+Edge AI
+Explainable AI
+Blockchain for AI
+Disaster Intelligence
+Generative AI
+```
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 🤖 Artificial Intelligence
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
+![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+### Deep Learning
+
+- CNN
+- Vision Transformers (ViT)
+- GANs
+- Pix2Pix
+- U-Net
+- Attention Mechanisms
+- Medical Image Segmentation
+- Computer Vision
+- Explainable AI (XAI)
+
+---
+
+## 🧠 Large Language Models
+
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- Fine-tuning
+- LangChain
+- LangGraph
+- AI Agents
+- BERT
+- Transformer Models
+- Vector Databases
+
+---
+
+## 🔐 AI Security
+
+- Federated Learning
+- Differential Privacy
+- Secure Aggregation
+- Byzantine Robust Learning
+- Blockchain-enabled Federated Learning
+- Zero Knowledge Proofs (Learning)
+
+---
+
+## 🔬 Scientific Machine Learning
+
+- Physics-Informed Neural Networks (PINNs)
+- EEG Signal Processing
+- Brain Computer Interface
+- Scientific AI
+- Multiphase System Modeling
+
+---
+
+## 🌍 Web Development
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+
+- HTML
+- CSS
+- JavaScript
+- AJAX
+
+---
+
+## ⚙️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+
+- Google Colab
+- Kaggle
+- GitHub Actions
+- LaTeX
+
+---
+
+# 📚 Publications
+
+📖 Research publications in
+
+- Neural Computing and Applications
+- IEEE Conferences
+- Progress in Disaster Science
+- Journal of Energy Storage
+
+📄 Topics
+
+- Federated Learning
+- Medical AI
+- Explainable AI
+- Disaster Intelligence
+- Power Systems
+- Large Language Models
+- Brain Computer Interface
+
+---
+
+# 🏆 Achievements
+
+🥇 Top 15 — Global AI Hackathon by Elucidata (355 Teams)
+
+🏅 6th Place — DUET AI Hackathon (124 Teams)
+
+💻 700+ Algorithmic Problems Solved
+
+📄 Multiple Journal Publications
+
+---
+
+# 🌱 Currently Learning
+
+- AI Security
+- Zero Knowledge Proofs
+- Secure Federated Learning
+- Reinforcement Learning
+- Neuromorphic Computing
+- AI Voice Agents
+- Computational Neuroscience
+
+---
+
+# 🤝 Looking to Collaborate
+
+I'm always interested in collaborating on
+
+- AI Research
+- Federated Learning
+- Multimodal AI
+- Medical AI
+- Computer Vision
+- Scientific Machine Learning
+- Open Source AI Projects
+
+---
+
+# 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahim-hossen)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/FahimHossen55)
+
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:fahimece55@gmail.com)
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=FahimHossen55&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=FahimHossen55&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FahimHossen55&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 📊 GitHub Activity Graph
+
+[![Fahim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FahimHossen55&theme=tokyo-night)](https://github.com/FahimHossen55)
+
+---
+
+# 💬 Favorite Quote
+
+> *"Research is seeing what everybody else has seen and thinking what nobody else has thought."*
+
+— Albert Szent-Györgyi
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+![](https://komarev.com/ghpvc/?username=FahimHossen55&color=blueviolet&style=for-the-badge)
+
+</div>
