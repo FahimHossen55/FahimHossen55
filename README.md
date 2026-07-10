@@ -22,8 +22,9 @@
 
 ### 💫 About Me
 
-🎓 ECE undergrad at **RUET**, Bangladesh · 🔬 Former Research Assistant at **Qatar University**
-🚀 Building **privacy-preserving, trustworthy, and efficient AI systems** — from multimodal foundation models to federated learning and BCI.
+- 🎓 ECE undergrad at **RUET**, Bangladesh 
+- 🔬 Former Research Assistant at **Qatar University**
+- 🚀 Building **privacy-preserving, trustworthy, and efficient AI systems** — from multimodal foundation models to federated learning and BCI.
 
 ---
 
@@ -43,7 +44,13 @@
 
 ### 🎯 Research Interests
 
-`LLMs & RAG` `Federated Learning` `AI Security` `Computer Vision` `Multimodal AI` `PINNs / BCI`
+- `LLMs & RAG` 
+- `Federated Learning`
+- `AI Security`
+-  `Computer Vision`
+-  `Multimodal AI`
+-  `PINNs`
+-   `BCI`
 
 ---
 
